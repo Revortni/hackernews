@@ -1,0 +1,35 @@
+.story {
+  border-bottom: 1px solid #cccccc;
+  padding-top: 10px;
+  margin: 0 10px;
+  padding-bottom: 10px;
+}
+
+.story:last-child {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.story h1 {
+  font-size: 24px;
+  line-height: 1.8;
+  margin: 0;
+  text-decoration: none;
+}
+.story h1 a {
+  color: #008b8b;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.story h1 a:hover {
+  color: #20b2aa;
+  text-decoration: none;
+}
+
+.story span {
+  font-style: italic;
+  font-size: 14px;
+  margin-right: 10px;
+  color: #4a4a4a;
+}
